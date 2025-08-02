@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: A beleza que perfuma
+      text: A beleza que perfuma histórias
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
